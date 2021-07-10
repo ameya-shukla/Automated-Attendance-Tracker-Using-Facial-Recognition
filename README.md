@@ -25,3 +25,10 @@ When the connection is done, to switch on the model and automate the process, a 
 ![image](https://user-images.githubusercontent.com/58943665/125160171-29a72d80-e199-11eb-9e51-6791ff88d873.png)
 
 
+![image](https://user-images.githubusercontent.com/58943665/125160227-6e32c900-e199-11eb-8840-8707197b7852.png)
+
+![image](https://user-images.githubusercontent.com/58943665/125160243-7c80e500-e199-11eb-9fb2-9a6be4a1749e.png)
+
+![image](https://user-images.githubusercontent.com/58943665/125160252-83a7f300-e199-11eb-9a2e-eb34c65e8f0c.png)
+
+
