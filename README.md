@@ -1,6 +1,9 @@
 # Automated-Attendance-Tracker-Using-Facial-Recognition
 The program is an automated attendance tracker that tracks the attendance of a person by recognising the face. The tracked attendance is stored in a CSV file format with the file name of the file titled according to the current date.
 
+**NOTE**: To run this program successfully, create a folder and rename it as `Images_attendance` and save this folder in the same directory where the program `attendance.py` is stored. Inside the folder `Images_attendance`, add the image in .jpg/.jpeg/.png format and the rename the image as `1_[name].jpg/.jpeg/.png`, where `1` will be referred as the roll number and `[name]` will be the name of the person. Similarly, for the 2nd image, the image should be named as `2_[name].jpg/.jpeg/.png` and so on. For example, `1_AMEYA SHUKLA.JPG`
+
+
 **Software Requirements**: Python 3.7.9, OpenCV, numpy, pandas, cmake, dlib, [face-recognition](https://pypi.org/project/face-recognition/) (by Adam Geitgey)
 
 **Hardware Requirements**: Raspberry Pi Model 3B, Raspberry pi camera module Rev 1.3 
