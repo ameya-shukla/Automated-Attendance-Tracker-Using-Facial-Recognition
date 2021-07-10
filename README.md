@@ -1,7 +1,7 @@
 # Automated-Attendance-Tracker-Using-Facial-Recognition
 The program is an automated attendance tracker that tracks the attendance of a person by recognising the face. The tracked attendance is stored in a CSV file format with the file name of the file titled according to the current date.
 
-**Software Requirements**: Python 3.7.9, OpenCV, dlib, [face-recognition](https://pypi.org/project/face-recognition/) (by Adam Geitgey)
+**Software Requirements**: Python 3.7.9, OpenCV, numpy, pandas, cmake, dlib, [face-recognition](https://pypi.org/project/face-recognition/) (by Adam Geitgey)
 
 **Hardware Requirements**: Raspberry Pi Model 3B, Raspberry pi camera module Rev 1.3 
 
